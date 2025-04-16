@@ -151,3 +151,9 @@ For production deployment:
    npm install -g pm2
    pm2 start server.js
    ```
+
+### Final Output:
+
+[Backend Deployed Link](https://memo-tag.onrender.com)
+
+[Frontend Delpoyed Link](https://memo-tag-ten.vercel.app)
