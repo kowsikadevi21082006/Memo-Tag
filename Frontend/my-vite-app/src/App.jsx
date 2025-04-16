@@ -30,7 +30,7 @@ export default function Home() {
   return (
     <div className={`${darkMode ? 'dark bg-gray-900 text-white' : 'bg-white text-gray-900'} transition-colors duration-300`}>
    
-        <title>MemoTag | AI for Dementia Care</title>
+        <title>Dementia Care</title>
         <meta
           name="description"
           content="AI-powered platform for dementia care, providing real-time insights through cognitive and physical tracking."
